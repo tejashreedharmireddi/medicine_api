@@ -12,6 +12,7 @@ namespace Medicine2.Repository
             new MedicineListModel{Id=1, Name="Paracetmol", Cost=50},
             new MedicineListModel{Id=2, Name="Keto", Cost=200},
             new MedicineListModel{Id=3, Name="Dolo", Cost=100},
+            new MedicineListModel{Id=4, Name="Zincold", Cost=50},
         };
 
         public  List<MedicineListModel> GetAll()
